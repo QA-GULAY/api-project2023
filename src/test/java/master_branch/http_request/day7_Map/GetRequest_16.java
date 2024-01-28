@@ -1,7 +1,6 @@
 package master_branch.http_request.day7_Map;
 
 import Utulities.ConfigurationReader;
-import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import master_branch.testDatas.TestMasterBranchData;
@@ -12,7 +11,8 @@ import org.junit.Test;
 import java.util.HashMap;
 import java.util.Map;
 
-import static io.restassured.RestAssured.*;
+import static io.restassured.RestAssured.baseURI;
+import static io.restassured.RestAssured.given;
 
 public class GetRequest_16 {
     @Before
