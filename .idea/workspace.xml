@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d186758-bb5d-4844-b3cc-e53600463f61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utulities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/PersonEPMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day09_PutAndPatch/Etut_Patch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day09_PutAndPatch/Etut_putMetod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day09_PutAndPatch/PutRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day09_PutAndPatch/PutRequest_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day10_Authorization/Authorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day10_Authorization/SchemaValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day3_Matchers/GetRequest_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day3_Matchers/GetRequest_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day3_Matchers/GetRequest_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day3_Matchers/GetRequest_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day3_Matchers/etut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day3_Matchers/etut1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day4_jsonPath/Etut_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day4_jsonPath/GetRequest_05_config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day4_jsonPath/GetRequest_06_jsonPath_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day4_jsonPath/GetRequest_07_jsonPath_find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day4_jsonPath/GetRequest_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day4_jsonPath/Odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day4_jsonPath/Odev2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day4_jsonPath/etut2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/GetRequest_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/GetRequest_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/GetRequest_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/GetRequest_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/GetRequest_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/pathParam/Cift_Istek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/pathParam/Odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/pathParam/Pratik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day5_response/path/pathParam/QueryParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day6_De_serialization/DemoQaPojo_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day6_De_serialization/GetPojoTest_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day6_De_serialization/GetPojoTest_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day7_Map/GetRequest_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day7_Map/GetRequest_JsonObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day8_PostAndDelete/DeleteRequest_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day8_PostAndDelete/Odev_PostAndDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day8_PostAndDelete/Odev_post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day8_PostAndDelete/PostAndDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day8_PostAndDelete/PostRequest_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day8_PostAndDelete/PostRequest_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/day8_PostAndDelete/postRequest_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/DemoQaPojo/DemoQaPojo_datas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/DemoQaPojo/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/Master_branchPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/master_branch1/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/master_branch1/RegresPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/master_branch1/Support.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/DemoQaPojo/DemoQaPojo_datas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/DemoQaPojo/Herokuapp_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/DemoQaPojo/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/regres/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/regres/pojo/Master_BranchPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/regres/pojo/master_branch1/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/regres/pojo/master_branch1/RegresPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/regres/pojo/master_branch1/Support.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/regres/pojo/pojos/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/http_request/pojos/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/jkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/master_branch/testDatas/TestMasterBranchData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/singleMasterPersonSchema.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XuYvimFzjGGrM87vUGcyA9JmRC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/SDET/GULAY QA/api-project2023/src/test/java/master_branch/http_request/pojos/DemoQaPojo",
+    "onboarding.tips.debug.path": "D:/SDET/GULAY QA/api-project2023/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SDET\GULAY QA\api-project2023\src\test\java\master_branch\http_request\pojos\DemoQaPojo" />
+      <recent name="D:\SDET\GULAY QA\api-project2023\src\test\java\master_branch\http_request\pojos\regres\pojo" />
+      <recent name="D:\SDET\GULAY QA\api-project2023\src\test\java\master_branch\http_request\pojos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SDET\GULAY QA\api-project2023\src\test\java\master_branch" />
+      <recent name="D:\SDET\GULAY QA\api-project2023" />
+      <recent name="D:\SDET\GULAY QA\api-project2023\src\test" />
+      <recent name="D:\SDET\GULAY QA\api-project2023\target" />
+      <recent name="D:\SDET\GULAY QA\api-project2023\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Utulities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GetRequest_06_jsonPath_index.getTest">
+    <configuration name="Authorization.authorizationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-project2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master_branch.http_request.day10_Authorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="master_branch.http_request.day10_Authorization" />
+      <option name="MAIN_CLASS_NAME" value="master_branch.http_request.day10_Authorization.Authorization" />
+      <option name="METHOD_NAME" value="authorizationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetRequest_06_jsonPath_index.getTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-project2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master_branch.http_request.day4_jsonPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="master_branch.http_request.day4_jsonPath" />
+      <option name="MAIN_CLASS_NAME" value="master_branch.http_request.day4_jsonPath.GetRequest_06_jsonPath_index" />
+      <option name="METHOD_NAME" value="getTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Odev_post.postPractice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-project2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master_branch.http_request.day8_PostAndDelete.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="master_branch.http_request.day8_PostAndDelete" />
+      <option name="MAIN_CLASS_NAME" value="master_branch.http_request.day8_PostAndDelete.Odev_post" />
+      <option name="METHOD_NAME" value="postPractice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-project2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master_branch.http_request.day10_Authorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="master_branch.http_request.day10_Authorization" />
+      <option name="MAIN_CLASS_NAME" value="master_branch.http_request.day10_Authorization.SchemaValidation" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaValidation.schemaValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-project2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master_branch.http_request.day10_Authorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="master_branch.http_request.day10_Authorization" />
+      <option name="MAIN_CLASS_NAME" value="master_branch.http_request.day10_Authorization.SchemaValidation" />
+      <option name="METHOD_NAME" value="schemaValidationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GetRequest_06_jsonPath_index.getTest" />
+        <item itemvalue="JUnit.SchemaValidation.schemaValidationTest" />
+        <item itemvalue="JUnit.SchemaValidation" />
+        <item itemvalue="JUnit.Odev_post.postPractice" />
+        <item itemvalue="JUnit.Authorization.authorizationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d186758-bb5d-4844-b3cc-e53600463f61" name="Changes" comment="" />
+      <created>1699480666254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699480666254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

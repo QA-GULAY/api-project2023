@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "default": {},
+  "title": "Root Schema",
+  "required": [
+    "personId",
+    "name",
+    "age",
+    "email",
+    "address"
+  ],
+  "properties": {
+    "personId": {
+      "type": "string",
+      "default": "",
+      "title": "The personId Schema",
+      "examples": [
+        "f44d597f-b32f-468e-a1b3-aaf39c86255c"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "default": "",
+      "title": "The name Schema",
+      "examples": [
+        "Jose Maria"
+      ]
+    },
+    "age": {
+      "type": "string",
+      "default": "",
+      "title": "The age Schema",
+      "examples": [
+        "500"
+      ]
+    },
+    "email": {
+      "type": "string",
+      "default": "",
+      "title": "The email Schema",
+      "examples": [
+        "jason500@gamil.com"
+      ]
+    },
+    "address": {
+      "type": "object",
+      "default": {},
+      "title": "The address Schema",
+      "required": [
+        "city",
+        "zipcode",
+        "country"
+      ],
+      "properties": {
+        "city": {
+          "type": "string",
+          "default": "",
+          "title": "The city Schema",
+          "examples": [
+            "Malaga"
+          ]
+        },
+        "zipcode": {
+          "type": "string",
+          "default": "",
+          "title": "The zipcode Schema",
+          "examples": [
+            "52720"
+          ]
+        },
+        "country": {
+          "type": "string",
+          "default": "",
+          "title": "The country Schema",
+          "examples": [
+            "Spain"
+          ]
+        }
+      },
+      "examples": [{
+        "city": "Malaga",
+        "zipcode": "52720",
+        "country": "Spain"
+      }]
+    }
+  },
+  "examples": [{
+    "personId": "f44d597f-b32f-468e-a1b3-aaf39c86255c",
+    "name": "Jose Maria",
+    "age": "500",
+    "email": "jason500@gamil.com",
+    "address": {
+      "city": "Malaga",
+      "zipcode": "52720",
+      "country": "Spain"
+    }
+  }]
+}
